@@ -1,0 +1,25 @@
+CSC 174 - Project 1
+Team 4
+
+//////////////////////////////////////////
+
+The Architect	-	Gunnar Zemering
+The Framework Wrangler	-	Teron Russell
+The CSS Artist	-	Ruari Conway
+The Javascript Coder	-	Daniel Diaz-Etchevehere 
+The content Master and Designer	-	Jake Socolow
+
+//////////////////////////////////////////
+
+
+_________________________________
+
+Things we are gonna be graded on:
+
+		Content Management
+		PHP Includes
+		Javascript
+		Cusomization of a framework
+		Repository Use
+_________________________________
+
