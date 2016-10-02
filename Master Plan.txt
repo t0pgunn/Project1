@@ -1,0 +1,58 @@
+CSC 174 - Project 1
+Team 4
+
+//////////////////////////////////////////
+
+The Architect	-	Gunnar Zemering
+The Framework Wrangler	-	Teron Russell
+The CSS Artist	-	Ruari Conway
+The Javascript Coder	-	Daniel Diaz-Etchevehere 
+The content Master and Designer	-	Jake Socolow
+
+//////////////////////////////////////////
+
+
+_________________________________
+
+Things we are gonna be graded on:
+
+		Content Management				[]
+		PHP Includes					[]
+		JavaScript 						[]
+		Cusomization of a Framework 	[]
+		Repository Use 					[]
+		Mobile Friendliness				[]
+		Active Navigation Bar 			[]
+_________________________________
+
+Source Content:
+	
+	We are going to build a website around music and its different
+	genres. Our home page will be a modern, welcoming page emphasizing
+	the characteristics and benefits of music, which we will break down
+	into (atleast) 3 seperate genres. Each page will explain the genre,
+	using info from wikipedia or a different site. 
+
+	What makes our site cool is that it will have sample songs for each genre,
+	probably soundcloud embeds, and a list of the leading artists in that genre, 
+	and ways to get connected with them. This might sound like a lot of work, but
+	I think once we lay out the pages it will be easier than you think.
+
+	We can decide later on which genres to use, color scheme, etc. I think we should also
+	have an extra page unrelated to being just informational, maybe something cool. 
+
+____________________________________
+
+
+Framework: Bootstrap
+
+Custom CSS: TBD
+
+JavaScript Slideshow: TBD
+
+PHP Includes: Header, Nav, Footer, TBD
+
+Repository: GitHub, t0pgunn, CSC174Project1
+
+
+
