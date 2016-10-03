@@ -37,7 +37,7 @@
     ?>
 
     <!-- Image Background Page Header -->
-    <!-- Note: The background image is set within the business-casual.css file. -->
+
     <header class="business-header">
         <div class="container">
             <div class="row">
@@ -89,15 +89,13 @@
 
         <hr>
 
-        <!-- Footer -->
-        <footer>
-            <div class="row">
-                <div class="col-lg-12">
-                    <p>Copyright &copy; CSC174 Group 4</p>
-                </div>
-            </div>
-            <!-- /.row -->
-        </footer>
+    <?php
+
+    $page = 'home';
+
+    include('inc/footer.inc');
+
+    ?>
 
     </div>
     <!-- /.container -->

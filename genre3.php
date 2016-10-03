@@ -88,7 +88,7 @@
         <!-- Image Row -->
         <div class="row">
             <div class="col-md-12">
-                <img class="img-responsive img-rounded" src="http://placehold.it/900x350" alt="">
+                <img class="img-responsive center-block img-rounded" src="http://placehold.it/900x350" alt="">
                 
             </div>
           
@@ -124,13 +124,13 @@
         <!-- /.row -->
 
         <!-- Footer -->
-        <footer>
-            <div class="row">
-                <div class="col-lg-12">
-                    <p>Copyright &copy; CSC174 Group 4</p>
-                </div>
-            </div>
-        </footer>
+    <?php
+
+    $page = 'home';
+
+    include('inc/footer.inc');
+
+    ?>
 
     </div>
     <!-- /.container -->
