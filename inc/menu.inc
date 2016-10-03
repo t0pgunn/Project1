@@ -9,20 +9,25 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
+
                 </button>
-                <a class="navbar-brand" href="#">Learn about Music</a>
+               
+
             </div>
             <!-- nav content -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
+                    <li <?php echo ($page == 'home') ? 'class="current"' : '';?>>
+                        <a href="index.php">Home</a>
+                    </li>
                     <li <?php echo ($page == 'genre1') ? 'class="current"' : '';?>>
-                        <a href="#">Genre 1</a>
+                        <a href="genre1.php">Genre 1</a>
                     </li>
                     <li <?php echo ($page == 'genre2') ? 'class="current"' : '';?>>
-                        <a href="#">Genre 2</a>
+                        <a href="genre2.php">Genre 2</a>
                     </li>
                     <li <?php echo ($page == 'genre3') ? 'class="current"' : '';?>>
-                        <a href="#">Genre 3</a>
+                        <a href="genre3.php">Genre 3</a>
                     </li>
                 </ul>
             </div>
