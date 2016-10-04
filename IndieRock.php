@@ -30,7 +30,7 @@
 
        <?php
 
-    $page = 'genre3';
+    $page = 'IndieRock';
 
     include('inc/menu.inc');
 

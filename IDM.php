@@ -30,7 +30,7 @@
 
        <?php
 
-    $page = 'genre2';
+    $page = 'IDM';
 
     include('inc/menu.inc');
 
@@ -42,12 +42,12 @@
         <!-- Heading Row -->
         <div class="row">
             <div class="col-md-8">
-                <img class="img-responsive img-rounded" src="http://placehold.it/900x350" alt="">
+                <img class="img-responsive img-rounded" src="images/aphex.jpg" alt="Aphex Twin">
             </div>
             <!-- /.col-md-8 -->
             <div class="col-md-4">
-                <h1>Genre of Music</h1>
-                <p>Type all the stuff here! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe rem nisi accusamus error velit animi non ipsa placeat. Recusandae, suscipit, soluta quibusdam accusamus a veniam quaerat eveniet eligendi dolor consectetur.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe rem nisi accusamus error velit animi non ipsa placeat. Recusandae, suscipit, soluta quibusdam accusamus a veniam quaerat eveniet eligendi dolor consectetur.</p>
+                <h1>IDM</h1>
+                <p>Intelligent dance music (IDM) is a genre of electronic music that emerged in the early 1990s. Its creation was influenced by developments in underground dance music such as Detroit techno and various breakbeat styles that were emerging in the UK at that time. Stylistically, IDM tended to rely upon individualistic experimentation rather than adhering to musical characteristics associated with specific genres of dance music. The range of post-techno styles to emerge in the early 1990s were described variously as "art techno", "ambient techno", "intelligent techno", and "electronica".</p> <!-- Text from Wikipedia -->
                 
             </div>
             <!-- /.col-md-4 -->
@@ -70,7 +70,7 @@
         <!-- Info Row -->
         <div class="row">
             <div class="col-md-6">
-                <h1>History of Genre</h1>
+                <h1>History of IDM</h1>
                 <p>Type all the stuff here! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe rem nisi accusamus error velit animi non ipsa placeat. Recusandae, suscipit, soluta quibusdam accusamus a veniam quaerat eveniet eligendi dolor consectetur.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe rem nisi accusamus error velit animi non ipsa placeat. Recusandae, suscipit, soluta quibusdam accusamus a veniam quaerat eveniet eligendi dolor consectetur.</p>
                 
             </div>
@@ -98,24 +98,24 @@
         <!-- Content Row -->
         <div class="row">
             <div class="col-md-3">
-                <h2>Top Artist 1</h2>
+                <h2>Aphex Twin</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe rem nisi accusamus error velit animi non ipsa placeat. Recusandae, suscipit, soluta quibusdam accusamus a veniam quaerat eveniet eligendi dolor consectetur.</p>
                 <a class="btn btn-default" href="#">More Info</a>
             </div>
             <!-- /.col-md-4 -->
             <div class="col-md-3">
-                <h2>Top Artist 2</h2>
+                <h2>Boards of Canada</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe rem nisi accusamus error velit animi non ipsa placeat. Recusandae, suscipit, soluta quibusdam accusamus a veniam quaerat eveniet eligendi dolor consectetur.</p>
                 <a class="btn btn-default" href="#">More Info</a>
             </div>
             <!-- /.col-md-4 -->
             <div class="col-md-3">
-                <h2>Top Artist 3</h2>
+                <h2>Flying Lotus</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe rem nisi accusamus error velit animi non ipsa placeat. Recusandae, suscipit, soluta quibusdam accusamus a veniam quaerat eveniet eligendi dolor consectetur.</p>
                 <a class="btn btn-default" href="#">More Info</a>
             </div>
             <div class="col-md-3">
-                <h2>Top Artist 4</h2>
+                <h2>Autechre</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe rem nisi accusamus error velit animi non ipsa placeat. Recusandae, suscipit, soluta quibusdam accusamus a veniam quaerat eveniet eligendi dolor consectetur.</p>
                 <a class="btn btn-default" href="#">More Info</a>
             </div>
