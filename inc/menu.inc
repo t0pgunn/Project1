@@ -9,6 +9,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
 
                 </button>
                
@@ -28,6 +29,9 @@
                     </li>
                     <li <?php echo ($page == 'genre3') ? 'class="current"' : '';?>>
                         <a href="genre3.php">Genre 3</a>
+                    </li>
+                    <li <?php echo ($page == 'colophon') ? 'class="current"' : '';?>>
+                        <a href="colophon.php">Colophon</a>
                     </li>
                 </ul>
             </div>
