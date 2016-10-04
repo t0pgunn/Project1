@@ -27,8 +27,8 @@
                     <li <?php echo ($page == 'IDM') ? 'class="current"' : '';?>>
                         <a href="IDM.php">IDM</a>
                     </li>
-                    <li <?php echo ($page == 'IndieRock') ? 'class="current"' : '';?>>
-                        <a href="IndieRock.php">Indie Rock</a>
+                    <li <?php echo ($page == 'HipHop') ? 'class="current"' : '';?>>
+                        <a href="HipHop.php">Hip Hop</a>
                     </li>
                     <li <?php echo ($page == 'colophon') ? 'class="current"' : '';?>>
                         <a href="colophon.php">Colophon</a>

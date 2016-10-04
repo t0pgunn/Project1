@@ -99,13 +99,13 @@
         <div class="row">
             <div class="col-md-3">
                 <h2>Aphex Twin</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe rem nisi accusamus error velit animi non ipsa placeat. Recusandae, suscipit, soluta quibusdam accusamus a veniam quaerat eveniet eligendi dolor consectetur.</p>
+                <p>Richard David James (born 18 August 1971), known by his stage name Aphex Twin, is an Irish-born British electronic musician and composer. He is known for his influential and idiosyncratic work in electronic music styles such as IDM and acid techno in the 1990s, for which he won widespread critical acclaim. He is also the co-founder of Rephlex Records with Grant Wilson-Claridge.</p>
                 <a class="btn btn-default" href="#">More Info</a>
             </div>
             <!-- /.col-md-4 -->
             <div class="col-md-3">
                 <h2>Boards of Canada</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe rem nisi accusamus error velit animi non ipsa placeat. Recusandae, suscipit, soluta quibusdam accusamus a veniam quaerat eveniet eligendi dolor consectetur.</p>
+                <p>Boards of Canada are a Scottish electronic music duo consisting of brothers Michael Sandison (born 1 June 1970) and Marcus Eoin (born Marcus Eoin Sandison, 21 July 1971). They have released several works on Warp Records with little advertising and few interviews, while also having an elusive and obscure back-catalogue of releases on their self-run Music70 label. They have also recorded at least four tracks under the alias of Hell Interface.</p>
                 <a class="btn btn-default" href="#">More Info</a>
             </div>
             <!-- /.col-md-4 -->
