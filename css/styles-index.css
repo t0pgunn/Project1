@@ -38,11 +38,11 @@ body {
 /* Navbar */
 
 .navbar-fixed-top .nav {
-    padding: 15px 0;
+    padding: 0px;
 }
 
 .navbar-fixed-top .navbar-brand {
-    padding: 0 15px;
+    padding: 0px;
 }
 
 .current a {
@@ -52,7 +52,6 @@ body {
 /* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
 
 .business-header {
-    margin-top: 30px;
     height: 400px;
     background: url('http://placehold.it/1920x400') center center no-repeat scroll;
     -webkit-background-size: cover;
