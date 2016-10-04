@@ -6,11 +6,53 @@
 
 body {
     padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    background-color: #FF703E
+}
+
+.col-sm-12 {
+    background-color: white;
+    border-radius: 10px;
+}
+
+/* genre row */
+
+.col-sm-4 {
+    background-color: white;
+    padding-top: 15px;
+    margin-top: 10px;
+    border-radius: 25px;
+}
+
+.col-sm-4 p {
+    color: black;
+    text-align: justify;
+}
+
+.col-sm-4 h2 {
+    text-align: center;
+    color: black;
+}
+
+/* text */
+
+/* Navbar */
+
+.navbar-fixed-top .nav {
+    padding: 15px 0;
+}
+
+.navbar-fixed-top .navbar-brand {
+    padding: 0 15px;
+}
+
+.current a {
+    background-color: #FFFFFF;
 }
 
 /* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
 
 .business-header {
+    margin-top: 30px;
     height: 400px;
     background: url('http://placehold.it/1920x400') center center no-repeat scroll;
     -webkit-background-size: cover;
@@ -34,5 +76,3 @@ footer {
     margin: 50px 0;
 }
 
-.current a { 
-            background-color: white; }
