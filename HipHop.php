@@ -30,7 +30,7 @@
 
        <?php
 
-    $page = 'genre3';
+    $page = 'HipHop';
 
     include('inc/menu.inc');
 

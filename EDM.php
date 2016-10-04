@@ -30,7 +30,7 @@
 
        <?php
 
-    $page = 'genre1';
+    $page = 'EDM';
 
     include('inc/menu.inc');
 

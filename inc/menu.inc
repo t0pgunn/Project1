@@ -21,14 +21,14 @@
                     <li <?php echo ($page == 'home') ? 'class="current"' : '';?>>
                         <a href="index.php">Home</a>
                     </li>
-                    <li <?php echo ($page == 'genre1') ? 'class="current"' : '';?>>
-                        <a href="genre1.php">Genre 1</a>
+                    <li <?php echo ($page == 'EDM') ? 'class="current"' : '';?>>
+                        <a href="EDM.php">EDM</a>
                     </li>
-                    <li <?php echo ($page == 'genre2') ? 'class="current"' : '';?>>
-                        <a href="genre2.php">Genre 2</a>
+                    <li <?php echo ($page == 'IDM') ? 'class="current"' : '';?>>
+                        <a href="IDM.php">IDM</a>
                     </li>
-                    <li <?php echo ($page == 'genre3') ? 'class="current"' : '';?>>
-                        <a href="genre3.php">Genre 3</a>
+                    <li <?php echo ($page == 'HipHop') ? 'class="current"' : '';?>>
+                        <a href="HipHop.php">Hip Hop</a>
                     </li>
                     <li <?php echo ($page == 'colophon') ? 'class="current"' : '';?>>
                         <a href="colophon.php">Colophon</a>
