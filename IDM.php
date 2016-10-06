@@ -88,7 +88,7 @@
         <!-- Image Row -->
         <div class="row">
             <div class="col-md-12">
-                <img class="img-responsive center-block img-rounded" src="http://placehold.it/900x350" alt="">
+                <img class="img-responsive center-block img-rounded" src="images/flyinglotus.jpg" alt="Flying Lotus">
                 
             </div>
           
@@ -111,12 +111,12 @@
             <!-- /.col-md-4 -->
             <div class="col-md-3">
                 <h2>Flying Lotus</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe rem nisi accusamus error velit animi non ipsa placeat. Recusandae, suscipit, soluta quibusdam accusamus a veniam quaerat eveniet eligendi dolor consectetur.</p>
+                <p> Steven Ellison (born October 7, 1983), known by his stage name Flying Lotus or sometimes FlyLo, is an experimental multi-genre music producer, electronic musician, DJ and rapper from Los Angeles, California. He has released five studio albums‍ — ‌<em>1983</em> (2006), <em>Los Angeles</em> (2008), <em>Cosmogramma</em> (2010), <em>Until the Quiet Comes</em> (2012) and <em>You're Dead!</em> (2014)‍ —‌ to increasing critical acclaim. He has produced much of the bumper music on Cartoon Network's Adult Swim programming block.</p>
                 <a class="btn btn-default" href="#">More Info</a>
             </div>
             <div class="col-md-3">
                 <h2>Autechre</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe rem nisi accusamus error velit animi non ipsa placeat. Recusandae, suscipit, soluta quibusdam accusamus a veniam quaerat eveniet eligendi dolor consectetur.</p>
+                <p>Autechre is an English electronic music duo consisting of Rob Brown and Sean Booth, both from Rochdale, Greater Manchester, England. Formed in 1987, they are one of the most popular acts signed to the Warp Records label, known for its pioneering electronic music and through which all of Autechre's albums have been released. Their music has exhibited a gradual shift in aesthetic throughout their career, from their earlier work with clear roots in techno, house and electro, to later albums that are often considered experimental in nature, featuring complex patterns of rhythm and subdued melodies.</p>
                 <a class="btn btn-default" href="#">More Info</a>
             </div>
             <!-- /.col-md-4 -->
