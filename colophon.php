@@ -43,11 +43,22 @@
             <div class="col-lg-12">
                 <div class="well text-center">
                     <h1>Who did what?</h1>
+                    
                     <p>Gunnar Zemering</p>
+
+
                     <p>Daniel Diaz-Etchevehere</p>
+
+
                     <p>Riuari Conway</p>
+
+
                     <p>Teron Russell</p>
+
+
                     <p>Jake Socolow</p>
+
+
 
                 </div>
             </div>

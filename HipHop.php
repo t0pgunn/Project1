@@ -99,23 +99,27 @@
         <div class="row">
             <div class="col-md-3">
                 <h2>Top Artist 1</h2>
+                <img class="img-circle img-responsive img-center" src="http://placehold.it/200x200" alt="">
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe rem nisi accusamus error velit animi non ipsa placeat. Recusandae, suscipit, soluta quibusdam accusamus a veniam quaerat eveniet eligendi dolor consectetur.</p>
                 <a class="btn btn-default" href="#">More Info</a>
             </div>
             <!-- /.col-md-4 -->
             <div class="col-md-3">
                 <h2>Top Artist 2</h2>
+                <img class="img-circle img-responsive img-center" src="http://placehold.it/200x200" alt="">
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe rem nisi accusamus error velit animi non ipsa placeat. Recusandae, suscipit, soluta quibusdam accusamus a veniam quaerat eveniet eligendi dolor consectetur.</p>
                 <a class="btn btn-default" href="#">More Info</a>
             </div>
             <!-- /.col-md-4 -->
             <div class="col-md-3">
                 <h2>Top Artist 3</h2>
+                <img class="img-circle img-responsive img-center" src="http://placehold.it/200x200" alt="">
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe rem nisi accusamus error velit animi non ipsa placeat. Recusandae, suscipit, soluta quibusdam accusamus a veniam quaerat eveniet eligendi dolor consectetur.</p>
                 <a class="btn btn-default" href="#">More Info</a>
             </div>
             <div class="col-md-3">
                 <h2>Top Artist 4</h2>
+                <img class="img-circle img-responsive img-center" src="http://placehold.it/200x200" alt="">
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe rem nisi accusamus error velit animi non ipsa placeat. Recusandae, suscipit, soluta quibusdam accusamus a veniam quaerat eveniet eligendi dolor consectetur.</p>
                 <a class="btn btn-default" href="#">More Info</a>
             </div>
