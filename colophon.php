@@ -17,6 +17,9 @@
     <!-- Custom CSS -->
     <link href="css/styles-genre.css" rel="stylesheet">
 
+    <link href="https://fonts.googleapis.com/css?family=Patrick+Hand|Rock+Salt" rel="stylesheet">
+    <link href="fonts/fonts.css" rel="stylesheet">
+
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -43,11 +46,22 @@
             <div class="col-lg-12">
                 <div class="well text-center">
                     <h1>Who did what?</h1>
+                    
                     <p>Gunnar Zemering</p>
+
+
                     <p>Daniel Diaz-Etchevehere</p>
-                    <p>Riuari Conway</p>
+
+
+                    <p>Ruairi Conway</p>
+
+
                     <p>Teron Russell</p>
+
+
                     <p>Jake Socolow</p>
+
+
 
                 </div>
             </div>

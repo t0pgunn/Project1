@@ -6,47 +6,61 @@
 
 body {
     padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
-    background-color: #FF703E
+    background-color: white;
 }
 
-.col-sm-12 {
+hr {
+    height: 6px;
+    background: url(http://ibrahimjabbari.com/english/images/hr-11.png) repeat-x 0 0;
+    border: 0;
+    max-width: 60%;
+}
+
+/* Navbar */
+
+.navbar-fixed-top {
+    background-color: black;
+}
+
+.navbar-nav li {
+    background-color: #FF7400;
+}
+
+.navbar-nav .current {
     background-color: white;
-    border-radius: 10px;
+}
+
+/* intro */
+
+.col-sm-12 {
+    text-align: center;
+    background-color: #FF7400;
+    border-radius: 5px;
+    margin-bottom: 7px;
+    padding: 1px 20px 10px 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
 }
 
 /* genre row */
 
 .col-sm-4 {
-    background-color: white;
-    padding-top: 15px;
-    margin-top: 10px;
-    border-radius: 25px;
+    max-width: 700px;
+    margin: 5px auto 10px;
+    background-color: #FF7400;
+    padding: 15px 5px 10px 5px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
 }
 
 .col-sm-4 p {
     color: black;
     text-align: justify;
+    text-align: center;
 }
 
 .col-sm-4 h2 {
     text-align: center;
     color: black;
-}
-
-/* text */
-
-/* Navbar */
-
-.navbar-fixed-top .nav {
-    padding: 0px;
-}
-
-.navbar-fixed-top .navbar-brand {
-    padding: 0px;
-}
-
-.current a {
-    background-color: #FFFFFF;
 }
 
 /* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
@@ -58,11 +72,17 @@ body {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    margin: 0;
+    padding: 0;
+    border-style: none;
 }
 
 /* Customize the text color and shadow color and to optimize text legibility. */
 
 .tagline {
+    text-align: center;
+    font-size: 75px;
+    padding-top: 20px;
     text-shadow: 0 0 10px #000;
     color: #fff;
 }
@@ -71,7 +91,13 @@ body {
     margin: 0 auto;
 }
 
+/* footer */
+
+.col-lg-12 {
+    text-align: center;
+}
+
 footer {
-    margin: 50px 0;
+    margin: 45px 0;
 }
 
