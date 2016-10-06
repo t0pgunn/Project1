@@ -72,37 +72,20 @@
         <hr>
 
         <div class="row">
-<<<<<<< HEAD
-            <div class="col-sm-4">
+            <div class="col-sm-4" id="leftg">
                 <img class="img-circle img-responsive img-center" src="images/edm.png" alt="EDM">
                 <h2>EDM</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et molestiae similique eligendi reiciendis sunt distinctio odit? Quia, neque, ipsa, adipisci quisquam ullam deserunt accusantium illo iste exercitationem nemo voluptates asperiores.</p>
             </div>
-            <div class="col-sm-4">
+            <div class="col-sm-4" id="middleg">
                 <img class="img-circle img-responsive img-center" src="images/aphexlogo.png" alt="Aphex Twin Logo">
                 <h2>IDM</h2>
                 <p>Intelligent dance music (IDM) is a genre of electronic music that emerged in the early 1990s. Stylistically, IDM tended to rely upon individualistic experimentation rather than adhering to musical characteristics associated with specific genres of dance music. </p>
             </div>
-            <div class="col-sm-4">
+            <div class="col-sm-4" id="rightg">
                 <img class="img-circle img-responsive img-center" src="images/hiphop.jpg" alt="Hip Hop">
                 <h2>Hip Hop</h2>
                 <p>Hip hop music, also called hip-hop or rap music, is a music genre formed in the United States in the 1970s that consists of a stylized rhythmic music that commonly accompanies rapping, a rhythmic and rhyming speech that is chanted. </p>
-=======
-            <div class="col-sm-4" id="leftg">
-                <img class="img-circle img-responsive img-center" src="http://placehold.it/300x300" alt="">
-                <h2>Genre #1</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et molestiae similique eligendi reiciendis sunt distinctio odit? Quia, neque, ipsa, adipisci quisquam ullam deserunt accusantium illo iste exercitationem nemo voluptates asperiores.</p>
-            </div>
-            <div class="col-sm-4" id="middleg">
-                <img class="img-circle img-responsive img-center" src="http://placehold.it/300x300" alt="">
-                <h2>Genre #2</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et molestiae similique eligendi reiciendis sunt distinctio odit? Quia, neque, ipsa, adipisci quisquam ullam deserunt accusantium illo iste exercitationem nemo voluptates asperiores.</p>
-            </div>
-            <div class="col-sm-4" id="rightg">
-                <img class="img-circle img-responsive img-center" src="http://placehold.it/300x300" alt="">
-                <h2>Genre #3</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et molestiae similique eligendi reiciendis sunt distinctio odit? Quia, neque, ipsa, adipisci quisquam ullam deserunt accusantium illo iste exercitationem nemo voluptates asperiores.</p>
->>>>>>> t0pgunn/master
             </div>
         </div>
         <!-- /.row -->
