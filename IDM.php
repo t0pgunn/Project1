@@ -123,8 +123,12 @@
             <div class="col-md-3">
                 <h2>Autechre</h2>
                 <img class="img-circle img-responsive img-center" src="http://placehold.it/200x200" alt="">
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe rem nisi accusamus error velit animi non ipsa placeat. Recusandae, suscipit, soluta quibusdam accusamus a veniam quaerat eveniet eligendi dolor consectetur.</p>
-                <a class="btn btn-default" href="#">More Info</a>
+                <p>Autechre is an English electronic music duo consisting of Rob Brown and Sean Booth, both from Rochdale, Greater Manchester, England. Formed in 1987, they are one of the most popular acts signed to the Warp Records label, known for its pioneering electronic music and through which all of Autechre's albums have been released. Their music has exhibited a gradual shift in aesthetic throughout their career, from their earlier work with clear roots in techno, house and electro, to later albums that are often considered experimental in nature, featuring complex patterns of rhythm and subdued melodies.
+
+More Info
+ </p>
+
+                 <a class="btn btn-default" href="#">More Info</a>
             </div>
             <!-- /.col-md-4 -->
         </div>
