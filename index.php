@@ -16,6 +16,7 @@
 
     <!-- Custom CSS -->
     <link href="css/styles-index.css" rel="stylesheet">
+    <link href="css/carousel-styles.css" rel="stylesheet">
     <!-- fonts -->
     <link href="https://fonts.googleapis.com/css?family=Patrick+Hand|Rock+Salt" rel="stylesheet">
     <link href="fonts/fonts.css" rel="stylesheet">
@@ -36,6 +37,7 @@
     $page = 'home';
 
     include('inc/menu.inc');
+    include('inc/indexcarousel.inc');
 
     ?>
 
