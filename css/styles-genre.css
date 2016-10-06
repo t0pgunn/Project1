@@ -6,8 +6,15 @@
 
 body {
     padding-top: 70px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+    background-color: white;
 }
 
+hr {
+    height: 6px;
+    background: url(http://ibrahimjabbari.com/english/images/hr-11.png) repeat-x 0 0;
+    border: 0;
+    max-width: 60%;
+}
 .navbar-fixed-top .nav {
     padding: 0px;
 }
@@ -28,4 +35,5 @@ footer {
 }
 
 .current a { 
-            background-color: #FFFFFF; }
+    background-color: #FFFFFF;
+}

@@ -16,6 +16,9 @@
 
     <!-- Custom CSS -->
     <link href="css/styles-index.css" rel="stylesheet">
+    <!-- fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Patrick+Hand|Rock+Salt" rel="stylesheet">
+    <link href="fonts/fonts.css" rel="stylesheet">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -69,17 +72,17 @@
         <hr>
 
         <div class="row">
-            <div class="col-sm-4">
+            <div class="col-sm-4" id="leftg">
                 <img class="img-circle img-responsive img-center" src="http://placehold.it/300x300" alt="">
                 <h2>Genre #1</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et molestiae similique eligendi reiciendis sunt distinctio odit? Quia, neque, ipsa, adipisci quisquam ullam deserunt accusantium illo iste exercitationem nemo voluptates asperiores.</p>
             </div>
-            <div class="col-sm-4">
+            <div class="col-sm-4" id="middleg">
                 <img class="img-circle img-responsive img-center" src="http://placehold.it/300x300" alt="">
                 <h2>Genre #2</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et molestiae similique eligendi reiciendis sunt distinctio odit? Quia, neque, ipsa, adipisci quisquam ullam deserunt accusantium illo iste exercitationem nemo voluptates asperiores.</p>
             </div>
-            <div class="col-sm-4">
+            <div class="col-sm-4" id="rightg">
                 <img class="img-circle img-responsive img-center" src="http://placehold.it/300x300" alt="">
                 <h2>Genre #3</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et molestiae similique eligendi reiciendis sunt distinctio odit? Quia, neque, ipsa, adipisci quisquam ullam deserunt accusantium illo iste exercitationem nemo voluptates asperiores.</p>
