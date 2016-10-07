@@ -45,6 +45,7 @@ hr {
 
 .col-sm-4 {
     max-width: 700px;
+    min-height: 500px;
     margin: 5px auto 10px;
     background-color: #FF7400;
     padding: 15px 5px 10px 5px;

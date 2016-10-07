@@ -20,7 +20,7 @@
     <link href="css/carousel-styles.css" rel="stylesheet">
 
     <!-- fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Patrick+Hand|Rock+Salt" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Dosis|Rock+Salt" rel="stylesheet">
     <link href="fonts/fonts.css" rel="stylesheet">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
