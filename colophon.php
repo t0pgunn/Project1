@@ -46,7 +46,7 @@
             <div class="col-lg-12">
                 <div class="well text-center">
                     <h1>Who did what?</h1>
-                    
+
                     <p>Gunnar Zemering</p>
 
 
