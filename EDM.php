@@ -108,7 +108,7 @@
                 <img class="img-circle img-responsive img-center" src="images/daftpunk.jpg" alt="Daft Punk">
                 <p>Daft Punk is a French electronic music duo consisting of producers Guy-Manuel de Homem-Christo and Thomas Bangalter. The two achieved significant popularity in the late 1990s as part of the French house movement, and were met with continuous success in the years following, combining elements of house music with funk, techno, disco, rock, and synthpop influences. They are also known for their visual stylization and disguises associated with their music; specifically, the duo have worn ornate helmets and gloves to assume robot personas in most of their public appearances since 2001. They rarely grant interviews or appear on television.</p>
 
-                <a class="btn btn-default" href="https://soundcloud.com/daftalive">More Info</a>
+                <a class="btn btn-default" href="https://www.daftpunk.com/">More Info</a>
             </div>
 
             <div class="col-md-3">

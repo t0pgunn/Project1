@@ -98,14 +98,14 @@
                 <h2>Aphex Twin</h2>
                 <img class="img-circle img-responsive img-center" src="images/aphexlogo2.png" alt="Aphex Twin">
                 <p>Richard David James (born 18 August 1971), known by his stage name Aphex Twin, is an Irish-born British electronic musician and composer. He is known for his influential and idiosyncratic work in electronic music styles such as IDM and acid techno in the 1990s, for which he won widespread critical acclaim. He is also the co-founder of Rephlex Records with Grant Wilson-Claridge.</p>
-                <a class="btn btn-default" href="#">More Info</a>
+                <a class="btn btn-default" href="https://soundcloud.com/richarddjames">More Info</a>
             </div>
             <!-- /.col-md-4 -->
             <div class="col-md-3">
                 <h2>Boards of Canada</h2>
                 <img class="img-circle img-responsive img-center" src="images/boc.png" alt="Boards of Canada">
                 <p>Boards of Canada are a Scottish electronic music duo consisting of brothers Michael Sandison (born 1 June 1970) and Marcus Eoin (born Marcus Eoin Sandison, 21 July 1971). They have released several works on Warp Records with little advertising and few interviews, while also having an elusive and obscure back-catalogue of releases on their self-run Music70 label. They have also recorded at least four tracks under the alias of Hell Interface.</p>
-                <a class="btn btn-default" href="#">More Info</a>
+                <a class="btn btn-default" href="https://warp.net/artists/boards-of-canada/">More Info</a>
             </div>
             <!-- /.col-md-4 -->
             <div class="col-md-3">
@@ -114,7 +114,7 @@
                 <img class="img-circle img-responsive img-center" src="images/flyinglotus.jpg" alt="Flying Lotus">
                 <p> Steven Ellison (born October 7, 1983), known by his stage name Flying Lotus or sometimes FlyLo, is an experimental multi-genre music producer, electronic musician, DJ and rapper from Los Angeles, California. He has released five studio albums‍ — ‌<em>1983</em> (2006), <em>Los Angeles</em> (2008), <em>Cosmogramma</em> (2010), <em>Until the Quiet Comes</em> (2012) and <em>You're Dead!</em> (2014)‍ —‌ to increasing critical acclaim. He has produced much of the bump music on Cartoon Network's Adult Swim programming block.</p>
 
-                <a class="btn btn-default" href="#">More Info</a>
+                 <a class="btn btn-default" href="https://soundcloud.com/flyinglotus">More Info</a>
             </div>
             <div class="col-md-3">
                 <h2>Autechre</h2>
@@ -122,7 +122,7 @@
                 <img class="img-circle img-responsive img-center" src="images/autechre.jpg" alt="Autechre">
                 <p>Autechre is an English electronic music duo consisting of Rob Brown and Sean Booth, both from Rochdale, Greater Manchester, England. Formed in 1987, they are one of the most popular acts signed to the Warp Records label, known for its pioneering electronic music and through which all of Autechre's albums have been released. Their music has exhibited a gradual shift in aesthetic throughout their career, from their earlier work with clear roots in techno, house and electro, to later albums that are often considered experimental in nature, featuring complex patterns of rhythm and subdued melodies.</p>
 
-                 <a class="btn btn-default" href="#">More Info</a>
+                 <a class="btn btn-default" href="https://warp.net/artists/autechre/">More Info</a>
 
             </div>
             <!-- /.col-md-4 -->
