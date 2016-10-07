@@ -23,6 +23,17 @@ hr {
     padding: 0px;
 }
 
+.navbar-fixed-top {
+    background-color: #FF7400;
+}
+
+.navbar-nav li {
+    background-color: #FF7400;
+}
+
+.navbar-nav .current {
+    background-color: white;
+}
 footer {
     padding: 30px 0;
 }
