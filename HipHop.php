@@ -46,7 +46,7 @@
         <div class="row">
             <div class="col-md-8">
 
-                <img class="img-responsive img-rounded" src="images/kanye.jpg" alt="Kanye">
+                <img class="img-responsive img-rounded" src="images/kanyelive.jpg" alt="Kanye">
 
             </div>
             <!-- /.col-md-8 -->

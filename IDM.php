@@ -92,7 +92,7 @@
         <div class="row">
             <div class="col-md-12">
 
-                <img class="img-responsive center-block img-rounded" src="images/flyinglotus.jpg" alt="Flying Lotus">
+                <img class="img-responsive center-block img-rounded" src="images/flyinglotuslive.jpg" alt="Flying Lotus">
 
             </div>
           
