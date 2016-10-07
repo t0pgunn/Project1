@@ -126,7 +126,7 @@
             <div class="col-md-3">
                 <h2>Death Grips</h2>
                 <img class="img-circle img-responsive img-center" src="images/deathgrips.jpg" alt="Death Grips">
-               <p>Death Grips is an experimental hip hop group from Sacramento, California, formed in 2010. The group consists of rapper/vocalist Stefan Burnett, known by his stage name MC Ride, drummer and producer Zach Hill, and co-producer Andy Morin. The band has featured guitarist Nick Reinhart of Tera Melos on their albums Fashion Week, Jenny Death and Bottomless Pit. The band's music has been characterized as drawing on hip hop, industrial, punk, electronic and noise music.In 2015, <em>The Skinny</em> called them "the first truly important band of the twenty-first century".</p>
+               <p>Death Grips is an experimental hip hop group from Sacramento, California, formed in 2010. The group consists of rapper/vocalist Stefan Burnett, known by his stage name MC Ride, drummer and producer Zach Hill, and co-producer Andy Morin. The band has featured guitarist Nick Reinhart of Tera Melos on their albums Fashion Week, Jenny Death and Bottomless Pit. The band's music has been characterized as drawing on hip hop, industrial, punk, electronic and noise music. In 2015, <em>The Skinny</em> called them "the first truly important band of the twenty-first century".</p>
                 <a class="btn btn-default" href="#">More Info</a>
             </div>
             <!-- /.col-md-4 -->
