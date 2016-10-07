@@ -61,15 +61,8 @@
 
         <hr>
 
-        <!-- Call to Action Well -->
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="well text-center">
-                    We have to devide what we want to do with this section.
-                </div>
-            </div>
-            <!-- /.col-lg-12 -->
-        </div>
+        <!-- Call to Action Well [Removed] -->
+       
         <!-- /.row -->
 
         <!-- Info Row -->

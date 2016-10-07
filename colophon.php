@@ -47,18 +47,18 @@
                 <div class="well text-center">
                     <h1>Who did what?</h1>
 
-                    <p>Gunnar Zemering</p>
+                    <p>Gunnar Zemering - The Architecht</p>
 
 
-                    <p>Daniel Diaz-Etchevehere</p>
+                    <p>Daniel Diaz-Etchevehere - The Javascript Coder </p>
 
-                    <p>Riuari Conway</p>
-
-
-                    <p>Teron Russell</p>
+                    <p>Riuari Conway - The CSS Artist</p>
 
 
-                    <p>Jake Socolow</p>
+                    <p>Teron Russell - The Wrangler of Frameworks</p>
+
+
+                    <p>Jake Socolow - The Content Master and Designer</p>
 
 
 
