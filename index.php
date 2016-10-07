@@ -68,30 +68,30 @@
 
                 <p>Music can be divided into genres (e.g., country music) and genres can be further divided into subgenres (e.g., country blues and pop country are two of the many country subgenres), although the dividing lines and relationships between music genres are often subtle, sometimes open to personal interpretation, and occasionally controversial. For example, it can be hard to draw the line between some early 1980s hard rock and heavy metal. Within the arts, music may be classified as a performing art, a fine art or as an auditory art. Music may be played or sung and heard live at a rock concert or orchestra performance, heard live as part of a dramatic work (a music theater show or opera), or it may be recorded and listened to on a radio, MP3 player, CD player, Smartphone or as film score or TV show. In many cultures, music is an important part of people's way of life, as it plays a key role in religious rituals, rite of passage ceremonies (e.g., graduation and marriage), social activities (e.g., dancing) and cultural activities ranging from amateur karaoke singing to playing in an amateur funk band or singing in a community choir. People may make music as a hobby, for example, a teen who plays cello in a youth orchestra, or by working as a professional musician or singer. The music industry includes the individuals who create new songs and musical pieces, such as songwriters and composers; individuals who perform music, which include orchestra, jazz band and rock band musicians, singers and conductors; individuals who record music (music producers and sound engineers) and organize concert tours; and those who sell recordings and sheet music to customers.</p>
             </div>
-            
+
         </div>
         <!-- /.row -->
 
         <hr>
 
         <div class="row">
-            <div class="col-sm-4" id="leftg">
+            <div class="col-sm-3" id="leftg">
 
                <img class="img-circle img-responsive img-center" src="images/edm.png" alt="EDM">
                 <h2>EDM</h2>
                 <p>Electronic dance music (also known as EDM, dance music, club music, or simply dance) is a broad range of percussive electronic music genres produced largely for nightclubs, raves, and festivals, and produced for playback by disc jockeys (DJs). <p>
 
             </div>
-            <div class="col-sm-4" id="middleg">
+            <div class="col-sm-3" id="middleg">
                 <img class="img-circle img-responsive img-center" src="images/aphexlogo.png" alt="Aphex Twin Logo">
                 <h2>IDM</h2>
                 <p>Intelligent dance music (IDM) is a genre of electronic music that emerged in the early 1990s. Stylistically, IDM tended to rely upon individualistic experimentation rather than adhering to musical characteristics associated with specific genres of dance music. </p>
             </div>
-            <div class="col-sm-4" id="rightg">
+            <div class="col-sm-3" id="rightg">
                 <img class="img-circle img-responsive img-center" src="images/hiphop.jpg" alt="Hip Hop">
                 <h2>Hip Hop</h2>
 
-                <p>Hip hop music, also called hip-hop or rap music, is a music genre formed in the United States in the 1970s that consists of a stylized rhythmic music that commonly accompanies rapping, a rhythmic and rhyming speech that is chanted. </p>       
+                <p>Hip hop music, also called hip-hop or rap music, is a music genre formed in the United States in the 1970s that consists of a stylized rhythmic music that commonly accompanies rapping, a rhythmic and rhyming speech that is chanted. </p>
 
             </div>
         </div>
