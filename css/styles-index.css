@@ -49,8 +49,6 @@ hr {
     margin: 5px auto 10px;
     background-color: #FF7400;
     padding: 15px 5px 10px 5px;
-    border-radius: 5px;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
 }
 
 .col-sm-4 p {
@@ -62,6 +60,12 @@ hr {
 .col-sm-4 h2 {
     text-align: center;
     color: black;
+}
+
+.row-centered {
+    background-color: #FF7400;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
 }
 
 /* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
@@ -77,6 +81,8 @@ hr {
     padding: 0;
     border-style: none;
 }
+
+
 
 /* Customize the text color and shadow color and to optimize text legibility. */
 

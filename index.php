@@ -74,20 +74,20 @@
 
         <hr>
 
-        <div class="row">
-            <div class="col-sm-3" id="leftg">
+        <div class="row row-centered">
+            <div class="col-sm-4" id="leftg">
 
                <img class="img-circle img-responsive img-center" src="images/edm.png" alt="EDM">
                 <h2>EDM</h2>
                 <p>Electronic dance music (also known as EDM, dance music, club music, or simply dance) is a broad range of percussive electronic music genres produced largely for nightclubs, raves, and festivals, and produced for playback by disc jockeys (DJs). <p>
 
             </div>
-            <div class="col-sm-3" id="middleg">
+            <div class="col-sm-4" id="middleg">
                 <img class="img-circle img-responsive img-center" src="images/aphexlogo.png" alt="Aphex Twin Logo">
                 <h2>IDM</h2>
                 <p>Intelligent dance music (IDM) is a genre of electronic music that emerged in the early 1990s. Stylistically, IDM tended to rely upon individualistic experimentation rather than adhering to musical characteristics associated with specific genres of dance music. </p>
             </div>
-            <div class="col-sm-3" id="rightg">
+            <div class="col-sm-4" id="rightg">
                 <img class="img-circle img-responsive img-center" src="images/hiphop.jpg" alt="Hip Hop">
                 <h2>Hip Hop</h2>
 
