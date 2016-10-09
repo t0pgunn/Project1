@@ -79,8 +79,7 @@
 
                <img class="img-circle img-responsive img-center" src="images/edm.png" alt="EDM">
                 <h2>EDM</h2>
-                <p>Electronic dance music (also known as EDM, dance music, club music, or simply dance) is a broad range of percussive electronic music genres produced largely for nightclubs, raves, and festivals, and produced for playback by disc jockeys (DJs). <p>
-
+                <p>Electronic dance music (also known as EDM, dance music, club music, or simply dance) is a broad range of percussive electronic music genres produced largely for nightclubs, raves, and festivals, and produced for playback by disc jockeys (DJs).</p>
             </div>
             <div class="col-sm-4" id="middleg">
                 <img class="img-circle img-responsive img-center" src="images/aphexlogo.png" alt="Aphex Twin Logo">
@@ -92,7 +91,6 @@
                 <h2>Hip Hop</h2>
 
                 <p>Hip hop music, also called hip-hop or rap music, is a music genre formed in the United States in the 1970s that consists of a stylized rhythmic music that commonly accompanies rapping, a rhythmic and rhyming speech that is chanted. </p>
-
             </div>
         </div>
         <!-- /.row -->
