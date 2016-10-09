@@ -3,7 +3,8 @@
 }
 
 .navbar-nav {
-	font-family: 'Dosis', cursive;	
+	font-family: 'Dosis', cursive;
+	font-size: 12pt;	
 }
 
 .row {
@@ -16,4 +17,13 @@ h1 {
 
 h2 {
 	font-family: 'Rock Salt', cursive;
+}
+
+p {
+    font-family: 'Dosis', cursive;
+    font-size: 12pt;
+}
+
+.carousel-caption h3 {
+    font-family: 'Rock Salt', cursive;
 }

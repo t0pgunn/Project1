@@ -52,7 +52,7 @@
 
                     <p>Daniel Diaz-Etchevehere - The Javascript Coder </p>
 
-                    <p>Riuari Conway - The CSS Artist</p>
+                    <p>Ruairi Conway - The CSS Artist</p>
 
 
                     <p>Teron Russell - The Wrangler of Frameworks</p>

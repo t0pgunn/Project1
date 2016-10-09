@@ -48,7 +48,7 @@
                 <img class="img-responsive img-rounded" src="images/edm.jpg" alt="EDM">
             </div>
             <!-- /.col-md-8 -->
-            <div class="col-md-4">
+            <div class="col-md-4 top-chunk">
                 <h1>EDM</h1>
                 <p>Electronic dance music (also known as EDM, dance music, club music, or simply dance) is a broad range of percussive electronic music genres produced largely for nightclubs, raves, and festivals. Produced for playback by disc jockeys (DJs), EDM is generally used in the context of a live mix, where a DJ creates a seamless selection of tracks by segueing from one recording to the next.</p>
 
@@ -64,16 +64,16 @@
         <!-- /.row -->
 
         <!-- Info Row -->
-        <div class="row">
+        <div class="row middle-chunk">
             <div class="col-md-6">
-                <h1>History of EDM</h1>
+                <h2>History of EDM</h2>
                 <p>Early examples of electronic dance music include the disco music of Giorgio Moroder and the electronic music of Kraftwerk and Yellow Magic Orchestra in the late 1970s. During the early 1980s, the popularity of disco music sharply declined in the United States, abandoned by major U.S. record labels and producers. European disco continued evolving within the broad mainstream pop music scene. In the early 1980s, House music quickly spread from Chicago to other American cities such as Detroit, New York City, and Newark—all of which developed their own regional scenes. In the mid-to-late 1980s, house music became popular in Europe as well as major cities in South America, and Australia. By 1988, house music had become the most popular form of club music in Europe.</p>
                 <p>Initially, electronic dance music was associated with European rave and club culture. By the mid-2000s, the prominence of dance music in North American popular culture had markedly increased. According to <em>Spin</em>, Daft Punk's performance at Coachella in 2006 was the "tipping point" for EDM—it introduced the duo to a new generation of "rock kids". The increased popularity of EDM was also influenced by live events and gigs.In 2011, Spin declared a "new rave generation" led by acts like David Guetta, Deadmau5, and Skrillex.  </p>
 
             </div>
             <!-- /.col-md-8 -->
             <div class="col-md-6">
-                <h1>Characteristics of EDM</h1>
+                <h2>Characteristics of EDM</h2>
                 <p>"EDM" is somewhat of an umbrella term for a variety of styles of popular electronic music. The first electronic dance music genre was called "electro", short for "electro-funk", which gained wide appeal in the 1980s. Like other music genres, EDM has various subgenres that evolved over the past 30 years that are often defined by their varying tempo (BPM), rhythm, instrumentation, and time period. For example; hardstyle, dubstep, trance, electro, hardcore, trap, chillstep, chillout, drum and bass, house, and some other genres which came from combinations from the genre above.</p>
 
             </div>
@@ -81,6 +81,7 @@
         </div>
         <!-- /.row -->
 
+        <hr>
 
         <!-- Image Row -->
         <div class="row">
@@ -92,8 +93,10 @@
         </div>
         <!-- /.row -->
 
+        <hr>
+
         <!-- Content Row -->
-        <div class="row">
+        <div class="row bottom-chunk">
             <div class="col-md-3">
                 <h2>Flume</h2>
                 <img class="img-circle img-responsive img-center" src="images/flume.jpg" alt="Flume">

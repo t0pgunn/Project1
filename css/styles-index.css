@@ -30,10 +30,26 @@ hr {
     background-color: white;
 }
 
+/* slider */
+
+#indexCarousel {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+}
+
+/* title */
+
+.tagline {
+    text-align: center;
+    font-size: 75px;
+    padding-top: 20px;
+    text-shadow: 2px 2px 4px #000000;
+    color: #FF7400;
+}
+
 /* intro */
 
 .col-sm-12 {
-    text-align: center;
+    text-align: justify;
     background-color: #FF7400;
     border-radius: 5px;
     margin-bottom: 7px;
@@ -41,31 +57,40 @@ hr {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
 }
 
+.col-sm-12 h2 {
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    padding: 0 0 10px 0;
+}
+
 /* genre row */
 
 .col-sm-4 {
     max-width: 700px;
-    min-height: 500px;
+    min-height: 450px;
     margin: 5px auto 10px;
     background-color: #FF7400;
-    padding: 15px 5px 10px 5px;
+    padding: 15px 10px 0px 10px;
 }
 
 .col-sm-4 p {
     color: black;
     text-align: justify;
-    text-align: center;
 }
 
 .col-sm-4 h2 {
     text-align: center;
-    color: black;
+    color: #fff;
+    text-shadow: 2px 2px 4px #000000;
+    padding: 0 0 10px 0;
 }
 
 .row-centered {
     background-color: #FF7400;
     border-radius: 5px;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
 }
 
 /* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
@@ -82,26 +107,21 @@ hr {
     border-style: none;
 }
 
-
-
 /* Customize the text color and shadow color and to optimize text legibility. */
-
-.tagline {
-    text-align: center;
-    font-size: 75px;
-    padding-top: 20px;
-    text-shadow: 0 0 10px #000;
-    color: #fff;
-}
 
 .img-center {
     margin: 0 auto;
+    padding-top: 10px;
 }
 
 /* footer */
 
 .col-lg-12 {
     text-align: center;
+}
+
+.col-lg-12 p {
+    font-size: 8pt;
 }
 
 footer {

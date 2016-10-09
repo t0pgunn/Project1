@@ -48,9 +48,9 @@
                 <img class="img-responsive img-rounded" src="images/aphex.jpg" alt="Aphex Twin">
             </div>
             <!-- /.col-md-8 -->
-            <div class="col-md-4">
+            <div class="col-md-4 top-chunk">
                 <h1>IDM</h1>
-                <p>Intelligent dance music (IDM) is a genre of electronic music that emerged in the early 1990s. Its creation was influenced by developments in underground dance music such as Detroit techno and various breakbeat styles that were emerging in the UK at that time. Stylistically, IDM tended to rely upon individualistic experimentation rather than adhering to musical characteristics associated with specific genres of dance music. The range of post-techno styles to emerge in the early 1990s were described variously as "art techno", "ambient techno", "intelligent techno", and "electronica".</p> <!-- Text from Wikipedia -->
+                <p>Intelligent dance music (IDM) is a genre of electronic music that emerged in the early 1990s. Its creation was influenced by developments in underground dance music such as Detroit techno and various breakbeat styles that were emerging in the UK at that time. Stylistically, IDM tended to rely upon individualistic experimentation rather than adhering to musical characteristics associated with specific genres of dance music.</p> <!-- Text from Wikipedia -->
                 
             </div>
             <!-- /.col-md-4 -->
@@ -64,15 +64,15 @@
         <!-- /.row -->
 
         <!-- Info Row -->
-        <div class="row">
+        <div class="row middle-chunk">
             <div class="col-md-6">
-                <h1>History of IDM</h1>
+                <h2>History of IDM</h2>
                 <p>In 1992, Warp released <em>Artificial Intelligence</em>, the first album in the <em>Artificial Intelligence</em> series. Subtitled "electronic listening music from Warp", the record was a collection of tracks from artists such as Autechre, B12, The Black Dog, Aphex Twin and The Orb, under various aliases. Steve Beckett, co-owner of Warp, has said the electronic music that the label was releasing then was targeting a post-club, home-listening audience. Following the success of the <em> Artificial Intelligence </em> series, "intelligent techno" became the favored term, although <em>ambient</em>—without a qualifying house or techno suffix, but still referring to a hybrid form—was a common synonym.In the mid-1990s, North American audiences welcomed IDM, and many IDM record labels were founded, including Drop Beat, C418, Isophlux, Suction, Schematic and Cytrax. In the same period, other names were also used, such as "art techno," "armchair techno," and "electronica," but all were attempts to describe an emerging offshoot of electronic dance music that was being enjoyed by the "sedentary and stay at home".</p>
                 
             </div>
             <!-- /.col-md-8 -->
             <div class="col-md-6">
-                <h1>Characteristics of IDM</h1>
+                <h2>Characteristics of IDM</h2>
                 <p>Though loosely defined, IDM often combines elements of techno and dance music with complex rhythmic structures and atypical melodic patterns. It should also be noted that IDM is a frequently criticized term; criticism is dominated by the use of the term "intelligent" in the genre name, and also often calls attention to the fact that artists working under this name often produce music that is not easy to dance to.</p>
                 
             </div>
@@ -80,6 +80,7 @@
         </div>
         <!-- /.row -->
 
+        <hr>
 
         <!-- Image Row -->
         <div class="row">
@@ -92,8 +93,10 @@
         </div>
         <!-- /.row -->
 
+        <hr>
+
         <!-- Content Row -->
-        <div class="row">
+        <div class="row bottom-chunk">
             <div class="col-md-3">
                 <h2>Aphex Twin</h2>
                 <img class="img-circle img-responsive img-center" src="images/aphexlogo2.png" alt="Aphex Twin">

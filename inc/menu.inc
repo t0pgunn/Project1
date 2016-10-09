@@ -19,7 +19,7 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li <?php echo ($page == 'home') ? 'class="current"' : '';?>>
-                        <a href="index.php">Home</a>
+                        <a href="index.php">HOME</a>
                     </li>
                     <li <?php echo ($page == 'EDM') ? 'class="current"' : '';?>>
                         <a href="EDM.php">EDM</a>
@@ -28,10 +28,10 @@
                         <a href="IDM.php">IDM</a>
                     </li>
                     <li <?php echo ($page == 'HipHop') ? 'class="current"' : '';?>>
-                        <a href="HipHop.php">Hip Hop</a>
+                        <a href="HipHop.php">HIP HOP</a>
                     </li>
                     <li <?php echo ($page == 'colophon') ? 'class="current"' : '';?>>
-                        <a href="colophon.php">Colophon</a>
+                        <a href="colophon.php">COLOPHON</a>
                     </li>
                 </ul>
             </div>

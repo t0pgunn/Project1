@@ -45,12 +45,10 @@
         <!-- Heading Row -->
         <div class="row">
             <div class="col-md-8">
-
                 <img class="img-responsive img-rounded" src="images/kanyelive.jpg" alt="Kanye">
-
             </div>
             <!-- /.col-md-8 -->
-            <div class="col-md-4">
+            <div class="col-md-4 top-chunk">
                 <h1>Hip Hop</h1>
                 <p>Hip hop music, also called hip-hop or rap music, is a music genre formed in the United States in the 1970s that consists of a stylized rhythmic music that commonly accompanies rapping, a rhythmic and rhyming speech that is chanted. It developed as part of hip hop culture, a subculture defined by four key stylistic elements: MCing/rapping, DJing/scratching, break dancing, and graffiti writing. Other elements include sampling (or synthesis), and beatboxing.</p>
                 
@@ -66,9 +64,9 @@
         <!-- /.row -->
 
         <!-- Info Row -->
-        <div class="row">
+        <div class="row middle-chunk">
             <div class="col-md-6">
-                <h1>History of Hip Hop</h1>
+                <h2>History of Hip Hop</h2>
                 <p>Hip hop as music and culture formed during the 1970s when block parties became increasingly popular in New York City, particularly among African-American youth residing in the Bronx, where DJs played percussive breaks of popular songs using two turntables to extend the breaks. Hip hop's early evolution occurred as sampling technology and drum-machines became widely available and affordable. Turntablist techniques developed along with the breaks and the Jamaican toasting vocal style was used. Rapping developed as a vocal style in which the artist speaks along with an instrumental or synthesized beat. The Sugarhill Gang's 1979 song "Rapper's Delight" is widely regarded to be the first hip hop record to gain widespread popularity in the mainstream. The 1980s marked the diversification of hip hop as the genre developed more complex styles.</p>
                 <p> In the 1990s, hip hop began to diversify with other regional styles emerging on the national scene, such as Southern rap and Atlanta hip hop. At the same time, hip hop continued to be assimilated into other genres of popular music. Hip hop became a best-selling music genre in the mid-1990s and the top selling genre by 1999. The popularity of hip hop music continued through the 2000s, with hip hop influences also increasingly finding their way into mainstream pop. During the mid-2000s that alternative hip hop secured a place within the mainstream, due in part to the crossover success of artists such as OutKast and Kanye West. </p>
                 
@@ -76,7 +74,7 @@
             <!-- /.col-md-8 -->
             <div class="col-md-6">
 
-                <h1>Characteristics of Hip Hop</h1>
+                <h2>Characteristics of Hip Hop</h2>
                 <p>Rapping, also referred to as MCing or emceeing, is a vocal style in which the artist speaks lyrically, in rhyme and verse, generally to an instrumental or synthesized beat. Beats, almost always in 4/4 time signature, can be created by sampling and/or sequencing portions of other songs by a producer. They also incorporate synthesizers, drum machines, and live bands. Rappers may write, memorize, or improvise their lyrics and perform their works a cappella or to a beat. Some subgenres of hip hop, such as crunk and trap rap, however, emphasize music more than lyrics.</p>
 
                 <p>The roots of rapping are found in African-American music and ultimately African music, particularly that of the griots of West African culture. The African-American traditions of signifyin', the dozens, and jazz poetry all influence hip hop music, as well as the call and response patterns of African and African-American religious ceremonies. Soul singer James Brown, and musical 'comedy' acts such as Rudy Ray Moore and Blowfly are often considered "godfathers" of hip hop music. </p>
@@ -85,6 +83,7 @@
         </div>
         <!-- /.row -->
 
+        <hr>
 
         <!-- Image Row -->
         <div class="row">
@@ -96,10 +95,11 @@
         </div>
         <!-- /.row -->
 
-        <!-- Content Row -->
-        <div class="row">
-            <div class="col-md-3">
+        <hr>
 
+        <!-- Content Row -->
+        <div class="row bottom-chunk">
+            <div class="col-md-3">
 
                 <h2>Kanye West</h2>
                 <img class="img-circle img-responsive img-center" src="images/kanye.jpg" alt="Kanye West">
