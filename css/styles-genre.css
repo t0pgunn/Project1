@@ -45,15 +45,18 @@ hr {
 }
 
 /* boxes */
+/* title */
 
 .top-chunk h1 {
     text-align: center;
-    padding: 0 0 10px 0;
+    padding: 10px 0 10px 0;
 }
 
 .top-chunk p {
     text-align: justify;
 }
+
+/* description */
 
 .middle-chunk h2 {
     text-align: center;
@@ -70,14 +73,71 @@ hr {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
 }
 
+/* artists */
+
+.col-md-3 {
+    margin-bottom: 15px;
+}
+
 .bottom-chunk { 
     background-color: #FF7400;
+    padding: 10px 10px 20px 10px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
 }
+
+.bottom-chunk h2 {
+    font-size: 16pt;
+    padding: 10px 0 10px 0;
+    color: #fff;
+    text-align: center;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.bottom-chunk p {
+    text-align: justify;
+}
+
+.bottom-chunk img {
+    margin: 0 auto;
+    padding-bottom: 20px;
+}
+
+.btn-default {
+  display: flex;
+  padding: 5px 10px;
+  font-size: 14px;
+  cursor: pointer;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: gray;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 4px 2px #999;
+}
+
+.button:hover {background-color: #3e8e41}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
 
 /* bottom */
 
+.col-lg-12 {
+    text-align: center;
+}
+
+.col-lg-12 p {
+    font-size: 8pt;
+}
+
 footer {
-    padding: 30px 0;
+    margin: 45px 0;
 }
 
 @media(min-width:768px) {
