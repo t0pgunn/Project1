@@ -17,7 +17,7 @@
     <!-- Custom CSS -->
     <link href="css/styles-genre.css" rel="stylesheet">
 
-    <link href="https://fonts.googleapis.com/css?family=Patrick+Hand|Rock+Salt" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Dosis|Rock+Salt" rel="stylesheet">
     <link href="fonts/fonts.css" rel="stylesheet">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -46,20 +46,19 @@
             <div class="col-lg-12">
                 <div class="well text-center">
                     <h1>Who did what?</h1>
-                    
-                    <p>Gunnar Zemering</p>
+
+                    <p>Gunnar Zemering - The Architecht</p>
 
 
-                    <p>Daniel Diaz-Etchevehere</p>
+                    <p>Daniel Diaz-Etchevehere - The Javascript Coder </p>
+
+                    <p>Riuari Conway - The CSS Artist</p>
 
 
-                    <p>Ruairi Conway</p>
+                    <p>Teron Russell - The Wrangler of Frameworks</p>
 
 
-                    <p>Teron Russell</p>
-
-
-                    <p>Jake Socolow</p>
+                    <p>Jake Socolow - The Content Master and Designer</p>
 
 
 

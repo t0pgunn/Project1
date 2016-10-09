@@ -10,7 +10,7 @@ body {
 }
 
 hr {
-    height: 5px;
+    height: 6px;
     background: url(http://ibrahimjabbari.com/english/images/hr-11.png) repeat-x 0 0;
     border: 0;
     max-width: 60%;
@@ -19,7 +19,7 @@ hr {
 /* Navbar */
 
 .navbar-fixed-top {
-    background-color: black;
+    background-color: #FF7400;
 }
 
 .navbar-nav li {
@@ -45,11 +45,10 @@ hr {
 
 .col-sm-4 {
     max-width: 700px;
+    min-height: 500px;
     margin: 5px auto 10px;
     background-color: #FF7400;
     padding: 15px 5px 10px 5px;
-    border-radius: 5px;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
 }
 
 .col-sm-4 p {
@@ -63,11 +62,17 @@ hr {
     color: black;
 }
 
+.row-centered {
+    background-color: #FF7400;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+}
+
 /* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
 
 .business-header {
-    height: 400px;
-    background: url('http://placehold.it/1920x400') center center no-repeat scroll;
+    /*height: 400px;
+    background: url('http://placehold.it/1920x400') center center no-repeat scroll;*/
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -76,6 +81,8 @@ hr {
     padding: 0;
     border-style: none;
 }
+
+
 
 /* Customize the text color and shadow color and to optimize text legibility. */
 
