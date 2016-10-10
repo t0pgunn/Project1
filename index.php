@@ -77,17 +77,17 @@
         <div class="row row-centered">
             <div class="col-sm-4" id="leftg">
 
-               <img class="img-circle img-responsive img-center" src="images/edm.png" alt="EDM">
+               <img class="img-circle img-responsive img-center" src="images/placeholder.png" data-src="images/edm.png" alt="EDM">
                 <h2>EDM</h2>
                 <p>Electronic dance music (also known as EDM, dance music, club music, or simply dance) is a broad range of percussive electronic music genres produced largely for nightclubs, raves, and festivals, and produced for playback by disc jockeys (DJs).</p>
             </div>
             <div class="col-sm-4" id="middleg">
-                <img class="img-circle img-responsive img-center" src="images/aphexlogo.png" alt="Aphex Twin Logo">
+                <img class="img-circle img-responsive img-center" src="images/placeholder.png" data-src="images/aphexlogo.png" alt="Aphex Twin Logo">
                 <h2>IDM</h2>
                 <p>Intelligent dance music (IDM) is a genre of electronic music that emerged in the early 1990s. Stylistically, IDM tended to rely upon individualistic experimentation rather than adhering to musical characteristics associated with specific genres of dance music. </p>
             </div>
             <div class="col-sm-4" id="rightg">
-                <img class="img-circle img-responsive img-center" src="images/hiphop.jpg" alt="Hip Hop">
+                <img class="img-circle img-responsive img-center" src="images/placeholder.png" data-src="images/hiphop.jpg" alt="Hip Hop">
                 <h2>Hip Hop</h2>
 
                 <p>Hip hop music, also called hip-hop or rap music, is a music genre formed in the United States in the 1970s that consists of a stylized rhythmic music that commonly accompanies rapping, a rhythmic and rhyming speech that is chanted. </p>
@@ -105,14 +105,29 @@
 
     ?>
 
-    </div>
-    <!-- /.container -->
+    </div><!-- /.container -->
 
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
+
+    <script src="js/jquery.unveil.js"></script>
+
+    <script>
+   
+       $(document).ready(function() {
+          
+          $("img").unveil(0, function() {
+              $(this).load(function() {
+                this.style.opacity = 1;
+              });
+            });
+        });
+    
+    </script>
+
 
 </body>
 

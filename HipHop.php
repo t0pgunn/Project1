@@ -6,10 +6,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="CSC174 Project 1">
+    <meta name="author" content="Gunnar Zemering, Danny Diaz-Etchevehere, Jake Socolow, Teron Russell, Ruairi Conway">
 
-    <title>Music Genre Template</title>
+    <title>Hip Hop</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -88,7 +88,7 @@
         <!-- Image Row -->
         <div class="row">
             <div class="col-md-12">
-                <img class="img-responsive center-block img-rounded" src="images/kendrick.png" alt="Kendrick">
+                <img class="img-responsive center-block img-rounded unveilImg" src="images/placeholder.png" data-src="images/kendrick.png" alt="Kendrick">
                 
             </div>
           
@@ -102,7 +102,7 @@
             <div class="col-md-3">
 
                 <h2>Kanye West</h2>
-                <img class="img-circle img-responsive img-center" src="images/kanye.jpg" alt="Kanye West">
+                <img class="img-circle img-responsive img-center unveilImg" src="images/placeholder.png" data-src="images/kanye.jpg" alt="Kanye West">
                 <p>Kanye Omari West (born June 8, 1977) is an American recording artist, songwriter, record producer, fashion designer, and entrepreneur. Raised in Chicago, West first became known as a producer for Roc-A-Fella Records in the early 2000s, producing hit singles for artists such as Jay Z and Alicia Keys. Intent on pursuing a solo career as a rapper, West released his debut album <em>The College Dropout </em> in 2004 to widespread critical and commercial success. He went on to pursue a variety of different styles on subsequent albums. In 2010, he released his acclaimed fifth album <em> My Beautiful Dark Twisted Fantasy</em>, and the following year he collaborated with Jay Z on the joint LP <em>Watch the Throne</em> (2011). His seventh album, <em>The Life of Pablo</em>, was released in 2016.</p>
 
                 <a class="btn btn-default" href="http://www.kanyewest.com/">More Info</a>
@@ -111,7 +111,7 @@
             <div class="col-md-3">
 
                 <h2>Danny Brown</h2>
-                <img class="img-circle img-responsive img-center" src="images/dannybrown.jpg" alt="Danny Brown">
+                <img class="img-circle img-responsive img-center unveilImg" src="images/placeholder.png" data-src="images/dannybrown.jpg" alt="Danny Brown">
                  <p>Daniel Dewan Sewell (born March 16, 1984), better known as Danny Brown, is an American hip hop recording artist from Detroit, Michigan. He is best known for his individuality, being described by MTV as "one of rap's most unique figures in recent memory". In 2010, after amassing several mixtapes, Brown released his debut studio album, <em>The Hybrid</em>. Brown began to gain major recognition after the release of his second studio album, <em>XXX</em>, which received critical acclaim and earned him such accolades as <em>Spin</em> as well as <em>Metro Times</em>' "Artist of the Year".</p>
 
                 <a class="btn btn-default" href="http://xdannyxbrownx.com/">More Info</a>
@@ -120,13 +120,13 @@
             <div class="col-md-3">
 
                 <h2>Outkast</h2>
-                <img class="img-circle img-responsive img-center" src="images/outkast.jpg" alt="Outkast">
+                <img class="img-circle img-responsive img-center unveilImg" src="images/placeholder.png" data-src="images/outkast.jpg" alt="Outkast">
                 <p>OutKast was an American hip hop duo formed in 1992, in East Point, Atlanta, Georgia, composed of Atlanta-based rappers André "André 3000" Benjamin (formerly known as Dré) and Antwan "Big Boi" Patton. Achieving both critical acclaim and commercial success in the 1990s and early 2000s, the duo helped popularize Southern hip hop styles while developing distinctive personas and an idiosyncratic sound that incorporated genres such as funk, psychedelia, techno, and gospel. The duo is one of the most successful and critically acclaimed hip-hop groups of all time, with publications such as <em>Rolling Stone</em> and <em>Pitchfork</em> listing albums such as <em>Aquemini</em> and <em>Stankonia</em> among the best of their era.</p>
                 <a class="btn btn-default" href="http://www.outkast.com/">More Info</a>
             </div>
             <div class="col-md-3">
                 <h2>Death Grips</h2>
-                <img class="img-circle img-responsive img-center" src="images/deathgrips.jpg" alt="Death Grips">
+                <img class="img-circle img-responsive img-center unveilImg" src="images/placeholder.png" data-src="images/deathgrips.jpg" alt="Death Grips">
                <p>Death Grips is an experimental hip hop group from Sacramento, California, formed in 2010. The group consists of rapper/vocalist Stefan Burnett, known by his stage name MC Ride, drummer and producer Zach Hill, and co-producer Andy Morin. The band has featured guitarist Nick Reinhart of Tera Melos on their albums Fashion Week, Jenny Death and Bottomless Pit. The band's music has been characterized as drawing on hip hop, industrial, punk, electronic and noise music. In 2015, <em>The Skinny</em> called them "the first truly important band of the twenty-first century".</p>
 
                 <a class="btn btn-default" href="https://soundcloud.com/deathgrips">More Info</a>
@@ -152,6 +152,21 @@
 
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
+
+    <script src="js/jquery.unveil.js"></script>
+
+    <script>
+   
+       $(document).ready(function() {
+          
+          $(".unveilImg").unveil(0, function() {
+              $(this).load(function() {
+                this.style.opacity = 1;
+              });
+            });
+        });
+    
+    </script>
 
 </body>
 

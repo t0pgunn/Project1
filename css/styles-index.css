@@ -132,3 +132,7 @@ footer {
     margin: 45px 0;
 }
 
+.img-circle {
+  opacity: 0;
+  transition: opacity .5s ease-in;
+} 

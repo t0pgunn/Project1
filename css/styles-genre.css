@@ -140,6 +140,11 @@ hr {
     font-size: 8pt;
 }
 
+.unveilImg {
+  opacity: 0;
+  transition: opacity .5s ease-in;
+} 
+
 footer {
     margin: 45px 0;
 }

@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Music Genre Template</title>
+    <title>Electronic Dance Music</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -86,7 +86,7 @@
         <!-- Image Row -->
         <div class="row">
             <div class="col-md-12">
-                <img class="img-responsive center-block img-rounded" src="images/edm2.jpg" alt="EDM">
+                <img class="img-responsive center-block img-rounded unveilImg" src="images/placeholder.png" data-src="images/edm2.jpg" alt="EDM">
 
             </div>
 
@@ -99,7 +99,7 @@
         <div class="row bottom-chunk">
             <div class="col-md-3">
                 <h2>Flume</h2>
-                <img class="img-circle img-responsive img-center" src="images/flume.jpg" alt="Flume">
+                <img class="img-circle img-responsive img-center unveilImg" src="images/placeholder.png" data-src="images/flume.jpg" alt="Flume">
                 <p>Harley Edward Streten, better known by his stage name Flume, is an Australian record producer and musician. His self-titled debut studio album, Flume, was released on 9 November 2012 to critical acclaim, peaking at number one on the ARIA Albums Chart and reaching double-platinum accreditation in Australia. He has remixed songs by artists such as Lorde, Sam Smith, Arcade Fire and Disclosure. His second studio album, <em>Skin</em>, was released on 27 May 2016, to positive reviews and also topped the ARIA Albums Chart.</p>
 
                 <a class="btn btn-default" href="https://soundcloud.com/flume">More Info</a>
@@ -108,7 +108,7 @@
             <div class="col-md-3">
 
                 <h2>Daft Punk </h2>
-                <img class="img-circle img-responsive img-center" src="images/daftpunk.jpg" alt="Daft Punk">
+                <img class="img-circle img-responsive img-center unveilImg" src="images/placeholder.png" data-src="images/daftpunk.jpg" alt="Daft Punk">
                 <p>Daft Punk is a French electronic music duo consisting of producers Guy-Manuel de Homem-Christo and Thomas Bangalter. The two achieved significant popularity in the late 1990s as part of the French house movement, and were met with continuous success in the years following, combining elements of house music with funk, techno, disco, rock, and synthpop influences. They are also known for their visual stylization and disguises associated with their music; specifically, the duo have worn ornate helmets and gloves to assume robot personas in most of their public appearances since 2001. They rarely grant interviews or appear on television.</p>
 
                 <a class="btn btn-default" href="https://www.daftpunk.com/">More Info</a>
@@ -116,13 +116,13 @@
 
             <div class="col-md-3">
                 <h2>Skrillex</h2>
-                <img class="img-circle img-responsive img-center" src="images/skrillex.jpg" alt="Skrillex">
+                <img class="img-circle img-responsive img-center unveilImg" src="images/placeholder.png" data-src="images/skrillex.jpg" alt="Skrillex">
                 <p>Sonny John Moore (born January 15, 1988), known professionally as Skrillex, is an American electronic music producer, DJ, singer and songwriter. Growing up in Northeast Los Angeles and in Northern California, Sonny Moore joined the American post-hardcore band From First to Last as the lead singer in 2004, and recorded two studio albums with the band before leaving to pursue a solo career in 2007.He released the Scary Monsters and Nice Sprites EP in late–2010 to moderate commercial success and has won a total of eight Grammy Awards, holding the world record for most Grammys won by an Electronic Dance Music artist.</p>
                 <a class="btn btn-default" href="https://soundcloud.com/skrillex">More Info</a>
             </div>
             <div class="col-md-3">
                 <h2>Giorgio Moroder</h2>
-                <img class="img-circle img-responsive img-center" src="images/moroder.jpg" alt="Giorgio Moroder">
+                <img class="img-circle img-responsive img-center unveilImg" src="images/placeholder.png" data-src="images/moroder.jpg" alt="Giorgio Moroder">
                   <p>Giovanni Giorgio Moroder (born 26 April 1940) is an Italian singer, songwriter, DJ and record producer. Moroder is frequently credited with pioneering Italo disco and electronic dance music. He produced singles for Donna Summer during the late-1970s disco era, including "Bad Girls", "Last Dance", "Love to Love You Baby", "No More Tears (Enough Is Enough)", "Dim All the Lights", "MacArthur Park", "Hot Stuff", "On the Radio", and "I Feel Love", and is the founder of the former Musicland Studios in Munich, a recording studio used by many artists including Electric Light Orchestra, Led Zeppelin, Queen and Elton John.
                 </p>
 
@@ -149,6 +149,21 @@
 
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
+
+    <script src="js/jquery.unveil.js"></script>
+
+    <script>
+   
+       $(document).ready(function() {
+          
+          $(".unveilImg").unveil(0, function() {
+              $(this).load(function() {
+                this.style.opacity = 1;
+              });
+            });
+        });
+    
+    </script>
 
 </body>
 
