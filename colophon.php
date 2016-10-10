@@ -57,6 +57,8 @@
                         <p>Designed a custom CSS to give style and structure to individual elements of the page. Based on the theme of our content, the color scheme and typeface of the site was inspired by SoundCloud.</p>
 
                         <p>Teron Russell - The Wrangler of Frameworks</p>
+                        <p>Removed Call to Action Bar that was present on the main page and the sub pages.Removed Call to Action Button from the Main Page. Added buttons under the genre introduction column which linked to its respective page.
+                        </p>
 
                         <p>Jake Socolow - The Content Master and Designer</p>
                         <p>Added text and images to all pages. Filled pages with text relevant to the subject matter. Added images for each individual artist, and for the genres themselves. Adjusted the size of the images to fit specific sizes. (Text from Wikipedia)</p>
