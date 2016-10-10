@@ -16,7 +16,6 @@
 
     <!-- Custom CSS -->
     <link href="css/styles-index.css" rel="stylesheet">
-
     <link href="css/carousel-styles.css" rel="stylesheet">
 
     <!-- fonts -->

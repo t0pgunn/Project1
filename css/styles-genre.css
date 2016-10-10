@@ -35,7 +35,7 @@ hr {
 }
 
 .navbar-nav .current {
-    background-color: white;
+    background-color: gray;
 }
 
 /* images */
@@ -107,6 +107,8 @@ hr {
     padding-bottom: 20px;
 }
 
+/* buttons */
+
 .btn-default {
   display: flex;
   padding: 5px 10px;
@@ -118,14 +120,16 @@ hr {
   background-color: gray;
   border: none;
   border-radius: 5px;
-  box-shadow: 0 4px 2px #999;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
 }
 
-.button:hover {background-color: #3e8e41}
+.btn-default:hover {
+  background-color: gray
+  color: #fff;
+}
 
-.button:active {
-  background-color: #3e8e41;
-  box-shadow: 0 5px #666;
+.btn-default:active {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
   transform: translateY(4px);
 }
 
@@ -160,19 +164,26 @@ footer {
 /* Colophon */
 
 .well {
-    background-color: #FF7400;
+  padding: 10px 15px 15px 15px;
+  background-color: #FF7400;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 5px;
 }
 
 .members {
     background-color: #fff;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 5px;
+}
+
+.members p {
+  margin: 0;
+  padding: 10px 40px 10px 40px;
+  font-size: 12pt;
 }
 
 .well h1 {
     color: #fff;
     text-shadow: 2px 2px 4px #000000;
     padding-bottom: 20px;
-}
-
-.well p {
-
 }

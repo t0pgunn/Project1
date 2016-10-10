@@ -27,7 +27,7 @@ hr {
 }
 
 .navbar-nav .current {
-    background-color: white;
+    background-color: gray;
 }
 
 /* slider */
@@ -95,6 +95,33 @@ hr {
     border-radius: 5px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     margin-bottom: 25px;
+}
+
+/* buttons */
+
+.btn-default {
+  display: flex;
+  padding: 5px 10px;
+  font-size: 14px;
+  cursor: pointer;
+  text-align: center;
+  outline: none;
+  color: #fff;
+  background-color: gray;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+}
+
+.btn-default:hover {
+  background-color: gray
+  color: #fff;
+}
+
+.btn-default:active {
+  background-color: #3e8e41;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+  transform: translateY(4px);
 }
 
 /* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */

@@ -19,19 +19,19 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li <?php echo ($page == 'home') ? 'class="current"' : '';?>>
-                        <a href="index.php">HOME</a>
+                        <a style="color: white;"  href="index.php">HOME</a>
                     </li>
                     <li <?php echo ($page == 'EDM') ? 'class="current"' : '';?>>
-                        <a href="EDM.php">EDM</a>
+                        <a style="color: white;" href="EDM.php">EDM</a>
                     </li>
                     <li <?php echo ($page == 'IDM') ? 'class="current"' : '';?>>
-                        <a href="IDM.php">IDM</a>
+                        <a style="color: white;" href="IDM.php">IDM</a>
                     </li>
                     <li <?php echo ($page == 'HipHop') ? 'class="current"' : '';?>>
-                        <a href="HipHop.php">HIP HOP</a>
+                        <a style="color: white;" href="HipHop.php">HIP HOP</a>
                     </li>
                     <li <?php echo ($page == 'colophon') ? 'class="current"' : '';?>>
-                        <a href="colophon.php">COLOPHON</a>
+                        <a style="color: white;" href="colophon.php">COLOPHON</a>
                     </li>
                 </ul>
             </div>
