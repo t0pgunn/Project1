@@ -20,7 +20,7 @@
 
     <!-- fonts -->
     <link href="https://fonts.googleapis.com/css?family=Dosis|Rock+Salt" rel="stylesheet">
-    <link href="fonts/fonts.css" rel="stylesheet">
+    <link href="css/fonts.css" rel="stylesheet">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->

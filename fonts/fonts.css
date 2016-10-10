@@ -1,0 +1,32 @@
+/* fonts */
+
+.tagline {
+	font-family: 'Rock Salt', cursive;
+}
+
+.navbar-nav {
+	font-family: 'Dosis', cursive;
+	font-size: 12pt;	
+}
+
+.row {
+	font-family: 'Dosis', cursive;
+}
+
+h1 {
+	font-family: 'Rock Salt', cursive;
+}
+
+h2 {
+	font-family: 'Rock Salt', cursive;
+}
+
+p {
+    font-family: 'Dosis', cursive;
+    font-size: 12pt;
+}
+
+.carousel-caption h3 {
+    font-family: 'Rock Salt', cursive;
+    font-size: 20pt;
+}
