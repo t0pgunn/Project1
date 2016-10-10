@@ -59,6 +59,7 @@
                         <p>Teron Russell - The Wrangler of Frameworks</p>
 
                         <p>Jake Socolow - The Content Master and Designer</p>
+                        <p>Added text and images to all pages. Filled pages with text relevant to the subject matter. Added images for each individual artist, and for the genres themselves. Adjusted the size of the images to fit specific sizes. (Text from Wikipedia)</p>
                     </div>
                 </div>
             </div>
