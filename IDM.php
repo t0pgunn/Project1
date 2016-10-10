@@ -50,7 +50,7 @@
             <!-- /.col-md-8 -->
             <div class="col-md-4 top-chunk">
                 <h1>IDM</h1>
-                <p>Intelligent dance music (IDM) is a genre of electronic music that emerged in the early 1990s. Its creation was influenced by developments in underground dance music such as Detroit techno and various breakbeat styles that were emerging in the UK at that time. Stylistically, IDM tended to rely upon individualistic experimentation rather than adhering to musical characteristics associated with specific genres of dance music.</p> <!-- Text from Wikipedia -->
+                <p>Intelligent dance music (IDM) is a genre of electronic music that emerged in the early 1990s. Its creation was influenced by developments in underground dance music such as Detroit techno and various breakbeat styles that were emerging in the UK at that time. Stylistically, IDM tended to rely upon individualistic experimentation rather than adhering to musical characteristics associated with specific genres of dance music. (Content from <a href="https://en.wikipedia.org/wiki/Intelligent_dance_music">Wikipedia</a>)</p> <!-- Text from Wikipedia -->
                 
             </div>
             <!-- /.col-md-4 -->

@@ -50,7 +50,7 @@
             <!-- /.col-md-8 -->
             <div class="col-md-4 top-chunk">
                 <h1>Hip Hop</h1>
-                <p>Hip hop music, also called hip-hop or rap music, is a music genre formed in the United States in the 1970s that consists of a stylized rhythmic music that commonly accompanies rapping, a rhythmic and rhyming speech that is chanted. It developed as part of hip hop culture, a subculture defined by four key stylistic elements: MCing/rapping, DJing/scratching, break dancing, and graffiti writing. Other elements include sampling (or synthesis), and beatboxing.</p>
+                <p>Hip hop music, also called hip-hop or rap music, is a music genre formed in the United States in the 1970s that consists of a stylized rhythmic music that commonly accompanies rapping, a rhythmic and rhyming speech that is chanted. It developed as part of hip hop culture, a subculture defined by four key stylistic elements: MCing/rapping, DJing/scratching, break dancing, and graffiti writing. Other elements include sampling (or synthesis), and beatboxing. (Content from <a href="https://en.wikipedia.org/wiki/Hip_hop_music">Wikipedia</a>)</p>
                 
             </div>
             <!-- /.col-md-4 -->

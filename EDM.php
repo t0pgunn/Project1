@@ -50,7 +50,7 @@
             <!-- /.col-md-8 -->
             <div class="col-md-4 top-chunk">
                 <h1>EDM</h1>
-                <p>Electronic dance music (also known as EDM, dance music, club music, or simply dance) is a broad range of percussive electronic music genres produced largely for nightclubs, raves, and festivals. Produced for playback by disc jockeys (DJs), EDM is generally used in the context of a live mix, where a DJ creates a seamless selection of tracks by segueing from one recording to the next.</p>
+                <p>Electronic dance music (also known as EDM, dance music, club music, or simply dance) is a broad range of percussive electronic music genres produced largely for nightclubs, raves, and festivals. Produced for playback by disc jockeys (DJs), EDM is generally used in the context of a live mix, where a DJ creates a seamless selection of tracks by segueing from one recording to the next. (Content from <a href="https://en.wikipedia.org/wiki/Electronic_dance_music"> Wikipedia</a>)</p>
 
             </div>
             <!-- /.col-md-4 -->
