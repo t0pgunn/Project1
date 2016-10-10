@@ -80,17 +80,24 @@
                <img class="img-circle img-responsive img-center" src="images/placeholder.png" data-src="images/edm.png" alt="EDM">
                 <h2>EDM</h2>
                 <p>Electronic dance music (also known as EDM, dance music, club music, or simply dance) is a broad range of percussive electronic music genres produced largely for nightclubs, raves, and festivals, and produced for playback by disc jockeys (DJs).</p>
+                
+                <a class="btn btn-default" href=EDM.php>Check it out!</a>
             </div>
             <div class="col-sm-4" id="middleg">
                 <img class="img-circle img-responsive img-center" src="images/placeholder.png" data-src="images/aphexlogo.png" alt="Aphex Twin Logo">
                 <h2>IDM</h2>
                 <p>Intelligent dance music (IDM) is a genre of electronic music that emerged in the early 1990s. Stylistically, IDM tended to rely upon individualistic experimentation rather than adhering to musical characteristics associated with specific genres of dance music. </p>
+                
+                <a class="btn btn-default" href="IDM.php">Check it out!</a>
+                
             </div>
             <div class="col-sm-4" id="rightg">
                 <img class="img-circle img-responsive img-center" src="images/placeholder.png" data-src="images/hiphop.jpg" alt="Hip Hop">
                 <h2>Hip Hop</h2>
 
                 <p>Hip hop music, also called hip-hop or rap music, is a music genre formed in the United States in the 1970s that consists of a stylized rhythmic music that commonly accompanies rapping, a rhythmic and rhyming speech that is chanted. </p>
+                
+                <a class="btn btn-default" href="HipHop.php"> Check it out!</a>
             </div>
         </div>
         <!-- /.row -->
