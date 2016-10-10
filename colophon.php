@@ -56,10 +56,9 @@
 <<<<<<< Updated upstream
                     <p>Daniel Diaz-Etchevehere - The Javascript Coder </p>
                     <p>Added the Bootstrap Carousel and its images to the index page (<a href="http://www.w3schools.com/bootstrap/bootstrap_carousel.asp">source</a>). I made a separate include and css files for the carousel for the sake of modularity. Found the unveil.js (<a href="http://luis-almeida.github.io/unveil/">source</a>) lazy loading plugin to increase performance and load images with animation. This involved adding a "data-src" attribute to every image to be loaded with this plugin, replacing the src with a placeholder image, and adding a script at the end of each php page to execute unveil.js on a specific class I called "unveilImg". To animate the image loading I added a couple lines of CSS: one to make the initial opacity of each image 0 and second using the field "transition" to have the image fade in.  
-=======
-                        <p>Ruairi Conway - The CSS Artist</p>
->>>>>>> Stashed changes
 
+                        <p>Ruairi Conway - The CSS Artist</p>
+                        <p>
 
                         <p>Teron Russell - The Wrangler of Frameworks</p>
 
