@@ -47,7 +47,7 @@
                 <div class="well text-center">
                     <h1>Who did what?</h1>
                     <div class="members">
-                        <p>Gunnar Zemering - The Architecht</p>
+                        <p>Gunnar Zemering - The Architect</p>
                         <p>Created the project description and master plan. Chose the content and the framework. Installed the framework, set up the pages, chose the general order of content. Oversaw major design choices. Completed the PHP navbar and footer. Handled all GitHub conflicts and branch merging. Created the content outline for the presentation.<p>
 
                         <p>Daniel Diaz-Etchevehere - The Javascript Coder </p>
