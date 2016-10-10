@@ -155,3 +155,24 @@ footer {
     }
 
 }
+
+
+/* Colophon */
+
+.well {
+    background-color: #FF7400;
+}
+
+.members {
+    background-color: #fff;
+}
+
+.well h1 {
+    color: #fff;
+    text-shadow: 2px 2px 4px #000000;
+    padding-bottom: 20px;
+}
+
+.well p {
+
+}
